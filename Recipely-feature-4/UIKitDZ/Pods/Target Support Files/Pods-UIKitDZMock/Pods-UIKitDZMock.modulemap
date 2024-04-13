@@ -1,0 +1,6 @@
+module Pods_UIKitDZMock {
+  umbrella header "Pods-UIKitDZMock-umbrella.h"
+
+  export *
+  module * { export * }
+}

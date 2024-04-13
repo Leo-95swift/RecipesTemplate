@@ -1,0 +1,15 @@
+{
+  "originHash" : "0ad10b20c5f840473424c86cfa62a4cc80004c4dbdb8130a6abcd54089bb07fc",
+  "pins" : [
+    {
+      "identity" : "mytextfield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kostjkeee/MyTextField.git",
+      "state" : {
+        "revision" : "2af51dbedae52a29bfa6b2909a636973136ea327",
+        "version" : "1.1.4"
+      }
+    }
+  ],
+  "version" : 3
+}
