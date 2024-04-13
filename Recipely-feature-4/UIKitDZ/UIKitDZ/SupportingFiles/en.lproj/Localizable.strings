@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  UIKitDZ
+
+  Created by Kostya Khvan on 29.03.2024.
+  
+*/
+
+"AuthModule.main.title" = "Login";
+"AuthModule.emailLabel.title" = "Email Address";
+"AuthModule.emailTextField.placeholder" = "Enter Email Address";
+"AuthModule.emailWarning" = "Incorrect format";
+"AuthModule.passwordLabel.title" = "Password";
+"AuthModule.passwordTextField.placeholder" = "Enter Password";
+"AuthModule.passwordWarning" = "You entered the wrong password";
+"AuthModule.loginButton.text" = "Login";
+"AuthModule.loginError" = "Please check the accuracy of the\nentered credentials";
+"RecipesModule" = "Recipes";
+"RecipeModule.saladCategory" = "Salad";
+"RecipeModule.soupCategory" = "Soup";
+"RecipeModule.chickenCategory" = "Chicken";
+"RecipeModule.meatCategory" = "Meat";
+"RecipeModule.fishCategory" = "Fish";
+"RecipeModule.sideDishCategory" = "Side dish";
+"RecipeModule.drinksCategory" = "Drinks";
+"RecipeModule.pancakeCategory" = "Pancake";
+"RecipeModule.dessertsCategory" = "Desserts";
+"FavoritesModule" = "Favorites";
+"FavoritesModule.noFavoriteRecipesText" = "There's nothing here yet";
+"FavoritesModule.favoriteRecipesSuggestionText" = "Add interesting recipes to make ordering products\nconvenient";
+"ProfileModule" = "Profile";
+"ProfileModule.usernameDefaultText" = "Surname Name";
+"ProfileModule.bonusesText" = "Bonuses";
+"ProfileModule.privacyText" = "Terms & Privacy Policy";
+"ProfileModule.partnersText" = "Our Partners";
+"ProfileModule.logoutText" = "Logout";
+"ProfileModule.canAction" = "Cancel";
+"ProfileModule.okAction" = "Ok";
+"ProfileModule.usernameAlertTitle" = "Change your name and surname";
+"ProfileModule.logoutAlertTitle" = "Are you sure you want to\nlog out?";
